@@ -15,6 +15,7 @@ export const Gallery = props => {
     { thumb: "img/portfolio/07-small.jpg", title: "Lorem Ipsum7" },
     { thumb: "img/portfolio/08-small.jpg", title: "Lorem Ipsum8" },
     { thumb: "img/portfolio/09-small.jpg", title: "Lorem Ipsum9" }
+
   ];
 
   const images = data.map(obj => obj.thumb.replace("-small", "-large"));
@@ -33,7 +34,7 @@ export const Gallery = props => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Galeria</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
         </div>
         <div className="row">

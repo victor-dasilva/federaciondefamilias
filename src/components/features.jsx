@@ -3,7 +3,7 @@ export const Features = (props) => {
     <div id="features" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>¿Quienes somos?</h2>
+          <h1>NUESTROS VALORES</h1>
         </div>
         <div className="row">
           {props.data
@@ -11,7 +11,7 @@ export const Features = (props) => {
                 <div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
                   {" "}
                   <i className={d.icon}></i>
-                  <h3>{d.title}</h3>
+                  <h4>{d.title}</h4>
                   <p>{d.text}</p>
                 </div>
               ))

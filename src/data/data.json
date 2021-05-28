@@ -1,85 +1,48 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Federación de Familias por la Paz y Unificación Mundial",
+    "paragraph1": "El Reino de los Cielos comienza en la Familia",
+    "paragraph2": "Son los Principios y Valores de la Familia los que van a traer la Paz al Mundo"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "La Federación de Familias para la Paz y Unificación Mundial fue fundada por el Reverendo Sun Myung Moon y su esposa Hak Ja Han en julio de 1996 en Washington DC, sobre la base de un movimiento espiritual iniciado en 1954. Somos una federación de familias que trabaja para establecer un mundo de paz y unidad entre personas, razas y religiones realizando el ideal de amor tal y como está explicado en el Principio Divino, la enseñanza principal del Movimiento de Unificación.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+    
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      
     ]
   },
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Vivir por el bien de los demás",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "UPF",
+      "text": "La UPF apoya el trabajo de las Naciones Unidas, particularmente en las áreas de construcción de paz interreligiosa, educación para la paz y el fortalecimiento del matrimonio y la familia."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Federación de Mujeres por la Paz",
+      "text": "Es una organización de mujeres que promueve a las mujeres como una parte esencial en la creación de una sociedad global pacífica."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-angellist",
+      "name": "Youth and Students for Peace",
+      "text": "Es una organización no gubernamental para proporcionar una plataforma de apoyo concreto para el desarrollo de la juventud, y para animarles a aplicar sus talentos y habilidades para construir un mundo de paz sostenible."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "CARP",
+      "text": "Es una organización internacional que plantea a los jóvenes la realidad de que el ser humano existe por el bien común y para construir una verdadera cultura de Amor basada en los Principios Universales."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-paw",
+      "name": "SungHwa",
+      "text": "Según sus palabras, “Seonghwa” significa cumplimiento y armonía, lograr el cumplimiento al armonizar con los demás"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "icon": "fa fa-sun-o",
+      "name": "Tong Il Moo Do",
+      "text": "Tong-Il Moo-Do es el camino de las artes marciales unificadas que, centradas en el Principio Divino, armonizan y sistematizan el movimiento circular (movimiento suave) como sujeto y el movimiento lineal (movimiento duro) como objeto, y da significado y valor. sobre los movimientos y técnicas."
     }
   ],
   "Team": [
@@ -114,24 +77,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-book",
+      "title": "Principio Divino",
+      "text": " El principio divino es una expresión de la verdad que explora el interior de la naturaleza humana y el estado del mundo, estudia a Dios, el universo y la experiencia humana de una manera que concuerde con nuestro desarrollo espiritual e intelectual"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-home",
+      "title": "La familia es el punto de inicio para un mundo de paz",
+      "text": ""
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Vivir por el bien de los demas",
+      "text": "en nuestro movimiento promovemos frecuentemente actividades voluntariados y servicios sociales en diferentes escalas, enfocándonos en los jóvenes de nuestra comunidad. "
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-heart-o",
+      "title": "Pureza en los jovenes, Fidelidad en el matrimonio",
+      "text": "Con el fin de ser una familia feliz y aportar a un mundo de paz, nuestras enseñanzas enfatizan la importancia de cuidar y madurar el amor."
     }
   ]
 }

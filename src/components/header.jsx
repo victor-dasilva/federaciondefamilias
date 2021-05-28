@@ -1,25 +1,28 @@
-import ParticlesBg from "particles-bg";
+import { TravelerEffect, MosaicGroundEffect, OceanEffect,
+  RainEffect, SeaWaveEffect, SnowFallEffect, SnowFallSlowEffect,
+  SpacingEffect, CloudWaveEffect 
+} from 'react-background-animation'
 
 export const Header = (props) => {
   return (
     <header id='header'>
       <div className='intro'>
-        <ParticlesBg type="circle" bg={{zIndex: 0, position:"absolute", top:0}} />
+        <TravelerEffect />
         <div className='overlay'>
           <div className='container'>
-          
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
-                <h1>
+                <h1 id='h1-header'>
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h1>
-                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
+                <h3>{props.data ? props.data.paragraph1 : 'Loading'}</h3>
+                <p>{props.data ? props.data.paragraph2 : 'Loading'}</p>
                 <a
                   href='#features'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Learn More
+                  Ver más
                 </a>{' '}
               </div>
             </div>

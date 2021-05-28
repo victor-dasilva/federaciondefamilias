@@ -199,7 +199,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	font-size: 50px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
@@ -217,10 +217,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin: 0 auto;
 	margin-bottom: 60px;
 }
+
+.intro h3 {
+	font-size: 35px;
+}
+
 header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
 	text-align: center;
+	font-size: 10px;
 }
 /* Features Section */
 #features {
